@@ -10,7 +10,7 @@ except ImportError:
 
 setup(
     name="three",
-    version="0.7.1",
+    version="0.7.1-g2.0",
     url="http://github.com/codeforamerica/three",
     author="Zach Williams",
     author_email="hey@zachwill.com",
